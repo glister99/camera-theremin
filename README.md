@@ -1,2 +1,2 @@
 # camera-theremin
-A playable theremin that uses webcam.
+A theremin that uses front-facing webcam.
