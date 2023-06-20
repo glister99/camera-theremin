@@ -1,2 +1,2 @@
 # camera-theremin
-A theremin that uses front-facing webcam.
+A theremin that uses the front-facing webcam.
